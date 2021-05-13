@@ -1,7 +1,7 @@
 //import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ReactLocker from "react-locker/lib/esm";
+import ReactLocker from "react-component-locker";
 require('react-dom');
 var w:any = window;
 w.React2 = require('react');
