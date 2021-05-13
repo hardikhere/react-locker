@@ -1,8 +1,8 @@
 {
-  "name": "react-locker",
-  "version": "1.0.0",
+  "name": "react-component-locker",
+  "version": "1.0.8",
   "description": "lock your components with pincode or pattern locks",
-  "main": "index.js",
+  "main": "src/index.ts",
   "license": "MIT",
   "scripts": {
     "build": "yarn build:esm && yarn build:cjs",
@@ -22,5 +22,9 @@
   },
   "files": [
     "/lib"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hardikhere/react-locker"
+  }
 }
